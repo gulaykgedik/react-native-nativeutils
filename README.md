@@ -36,12 +36,17 @@ cd ..
 
 ## 🧩 Kullanılan Başlıca Paketler
 
-react-native-geolocation-service 	Cihazın konumunu hassas şekilde almak için
-react-native-image-picker	Kamera ve galeri entegrasyonu
-react-native-permissions	Platform bağımlı izin yönetimi
-@react-navigation/native	Uygulama içinde gezinme (navigation)
-@react-native-async-storage/async-storage	Kalıcı veri saklama (local storage)
-react-native-safe-area-context	iPhone çentik ve kenar boşluklarını yönetme
+* react-native-geolocation-service  -	Cihazın konumunu hassas şekilde almak için
+
+* react-native-image-picker	        -  Kamera ve galeri entegrasyonu
+
+* react-native-permissions	        -  Platform bağımlı izin yönetimi
+
+* @react-navigation/native	        -  Uygulama içinde gezinme (navigation)
+
+* @react-native-async-storage/async-storage	  -  Kalıcı veri saklama (local storage)
+
+* react-native-safe-area-context	    -  iPhone çentik ve kenar boşluklarını yönetme
 
 
 ## 📂 Proje Yapısı (Örnek)
